@@ -8,7 +8,7 @@ function Navbar() {
     return (
     <div className='flex flex-row justify-between bg-[#D4D4D4]  items-center'>
         <div className=''>
-            <button type='submit' className='ml-[67px] tracking-widest text-[25px] py-[8px]'><Link to="/">LOCK START</Link></button>
+            <button type='submit' className='ml-[67px] tracking-widest text-[25px] py-[8px]'><Link to="/">B L O C K   S T A R T</Link></button>
         </div>
         <div className=''>
             <ul className='flex items-center'>

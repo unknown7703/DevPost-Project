@@ -6,7 +6,7 @@ function Home() {
     <div> <div>
       <Navbar />
     </div>
-      <div className="flex h=max">
+      <div className="flex">
         <div>
           
         </div>
